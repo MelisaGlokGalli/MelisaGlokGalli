@@ -1,5 +1,4 @@
 ## 👋:
-[Ver el GIF animado](https://MelisaGlokGalli.github.io/MelisaGlokGalli/)
 <!--
 **MelisaGlokGalli/MelisaGlokGalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
