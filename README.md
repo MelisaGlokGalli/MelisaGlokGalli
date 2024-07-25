@@ -8,7 +8,7 @@
 
 - 📚 Soy [**Lic. en Geología**](https://www.fcnym.unlp.edu.ar/grado/carreras/licenciatura-en-geologia/) desde 2008, [**Doctora en Cs. Naturales**](http://hdl.handle.net/10915/45185) desde 2015 e [**Investigadora Científica**](https://www.conicet.gov.ar/new_scp/detalle.php?id=33373&datos_academicos=yes) desde 2018.
   
-- 💦 Tengo más de 10 años de experiencia en las áreas de *Hidrogeoquímica*, *Hidrología Isotópica*, *Datación de Aguas* y *Contaminación de Recursos Hídricos* →
+- 💦 Cuento con más de 10 años de experiencia en las áreas de *Hidrogeoquímica*, *Hidrología Isotópica*, *Datación de Aguas* y *Contaminación de Recursos Hídricos* →
   
     📕 Puedes ver algunas de mis **Publicaciones Científicas** más relevantes en los siguientes enlaces:
 
@@ -28,10 +28,14 @@
      - 🌱 En el contexto de la [Especialización: "Machine Learning Aplicado a la Geología"](https://www.codeauni.com/capacitaciones/especializaciones/92/) (CODEa UNI) que estoy cursando, desarrollé el primero de una serie de proyectos, enfocado en el **Análisis Descriptivo** de datos geoquímicos de tres tipos diferentes de roca, con el objetivo de interpretar y comprender los procesos geológicos que han dado lugar a las mismas. Puedes visitar aquí su repositorio específico.
 [![Proyecto de Ciencia de Datos](https://img.shields.io/badge/Repositorio-Proyecto_de_Ciencia_de_Datos-333333?style=flat-square&logo=github)](https://github.com/tu-usuario/nombre-del-repositorio-del-proyecto)
 
-     - 👩‍💻 Realizo prácticas en la empresa [MiningiDEAS](https://www.miningideas.com/) (España), llevando a cabo la **Manipulación** y el **Análisis Descriptivo** y Exploratorio de Datos (**EDA**), con el fin de poder proporcionar insights valiosos.
+     - 👩‍💻 Realizo prácticas en la empresa [MiningiDEAS](https://www.miningideas.com/) (España), llevando a cabo la **Manipulación** y el **Análisis Descriptivo** y Exploratorio de Datos (**EDA**), con el fin de poder facilitar la toma de decisiones en proyectos relacionados con la industria minera.
 
-    🛠️ Estas son las Tecnologías y Herramientas que utilizo en los Proyectos de Ciencia de Datos:
+    🛠️ Estas son las Tecnologías y Herramientas que he utilizado en los Proyectos de Ciencia de Datos:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Python](https://img.shields.io/badge/-Python-E91E63?style=flat-square&logo=python)](https://www.python.org/) [![ChatGPT](https://img.shields.io/badge/-ChatGPT-FF5722?style=flat-square&logo=openai&logoColor=white)](https://openai.com/chatgpt) [![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-6B8E23?style=flat-square&logo=jupyter)](https://jupyter.org/) [![Pandas](https://img.shields.io/badge/-Pandas-2E7D32?style=flat-square&logo=pandas)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/-Matplotlib-20B2AA?style=flat-square&logo=matplotlib)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/-Seaborn-4169E1?style=flat-square&logo=seaborn)](https://seaborn.pydata.org/) [![IPywidgets](https://img.shields.io/badge/-IPywidgets-3F51B5?style=flat-square&logo=jupyter)](https://ipywidgets.readthedocs.io/en/stable/) [![MPLtern](https://img.shields.io/badge/-MPLtern-9C27B0?style=flat-square&logo=python&logoColor=white)](https://mpltern.readthedocs.io/en/latest/) [![Plotly](https://img.shields.io/badge/-Plotly-F44336?style=flat-square&logo=plotly)](https://plotly.com/python/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Python](https://img.shields.io/badge/-Python-E91E63?style=flat-square&logo=python)](https://www.python.org/) [![Jupyter](https://img.shields.io/badge/-Jupyter-FF5722?style=flat-square&logo=jupyter)](https://jupyter.org/) [![NumPy](https://img.shields.io/badge/-NumPy-6B8E23?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/-Pandas-2E7D32?style=flat-square&logo=pandas)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/-Matplotlib-20B2AA?style=flat-square&logo=matplotlib)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/-Seaborn-4169E1?style=flat-square&logo=seaborn)](https://seaborn.pydata.org/) [![IPywidgets](https://img.shields.io/badge/-IPywidgets-3F51B5?style=flat-square&logo=jupyter)](https://ipywidgets.readthedocs.io/en/stable/) [![MPLtern](https://img.shields.io/badge/-MPLtern-9C27B0?style=flat-square&logo=python&logoColor=white)](https://mpltern.readthedocs.io/en/latest/) [![Plotly](https://img.shields.io/badge/-Plotly-F44336?style=flat-square&logo=plotly)](https://plotly.com/python/)
 
-- Para un mayor detalle, puedes encontrar mi [Currículum Vitae aquí]().
+- 📩 Para un mayor detalle, puedes encontrar mi [Currículum Vitae completo aquí]() y contactarme en mi [![Mail Badge](https://img.shields.io/badge/-GMAIL-D93025?style=flat-square&logo=Gmail&logoColor=white)](mailto:melisaglokgalli@gmail.com) y/o [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthiknedunchezhiyan/)](https://www.linkedin.com/in/melisa-glok-galli-098225236/).
+
+
+
+
