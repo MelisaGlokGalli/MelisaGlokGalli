@@ -25,8 +25,7 @@
 
 - 🚀 Actualmente estoy dando mis primeros pasos dentro de la *Ciencia de Datos* → 
 
-     - 🌱 En el contexto de la [Especialización: "Machine Learning Aplicado a la Geología"](https://www.codeauni.com/capacitaciones/especializaciones/92/) (CODEa UNI) que estoy cursando, desarrollé el primero de una serie de proyectos, enfocado en el **Análisis Descriptivo** de datos geoquímicos de tres tipos diferentes de roca, con el objetivo de interpretar y comprender los procesos geológicos que han dado lugar a las mismas. Puedes visitar aquí su repositorio específico.
-[![Proyecto de Ciencia de Datos](https://img.shields.io/badge/Repositorio-Proyecto_de_Ciencia_de_Datos-333333?style=flat-square&logo=github)](https://github.com/tu-usuario/nombre-del-repositorio-del-proyecto)
+     - 🌱 En el contexto de la [Especialización: "Machine Learning Aplicado a la Geología"](https://www.codeauni.com/capacitaciones/especializaciones/92/) (CODEa UNI) que estoy cursando, desarrollé el primero ([![Proyecto de Ciencia de Datos](https://img.shields.io/badge/Repositorio-Proyecto_de_Ciencia_de_Datos-333333?style=flat-square&logo=github)](https://github.com/tu-usuario/nombre-del-repositorio-del-proyecto)) de una serie de proyectos, enfocado en el **Análisis Descriptivo** de datos geoquímicos de tres tipos diferentes de roca, con el objetivo de interpretar y comprender los procesos geológicos que han dado lugar a las mismas. 
 
      - 👩‍💻 Realizo prácticas en la empresa [MiningiDEAS](https://www.miningideas.com/) (España), llevando a cabo la **Manipulación** y el **Análisis Descriptivo** y Exploratorio de Datos (**EDA**), con el fin de poder facilitar la toma de decisiones en proyectos relacionados con la industria minera.
 
